@@ -1,4 +1,4 @@
-# ChainFund
+# Sorting algo visualizer
 
 # Inspiration 
 -  Developed a Python-based visual tool to demonstrate 5 different sorting algorithms, including bubble sort and
