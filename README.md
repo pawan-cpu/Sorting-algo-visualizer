@@ -5,7 +5,7 @@
 quicksort.
 -  Enhanced learning for users by providing real-time visual feedback, increasing understanding of sorting processes more
 by 25%
-- Github: 
+- Github: https://github.com/pawan-cpu/Sorting-algo-visualizer
 
 
 
